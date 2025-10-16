@@ -1,5 +1,5 @@
 # 💳 Mastercard UI – HTML & CSS Project  
-### 🇺🇿 Mastercard kartasi dizayni – HTML va CSS orqali yaratilgan loyiha  
+### Mastercard kartasi dizayni – HTML va CSS orqali yaratilgan loyiha  
 
 Bu loyiha orqali faqat HTML va CSS yordamida Mastercard kartasining interfeysi yaratildi.  
 Minimalistik, zamonaviy va to‘liq responsiv (moslashuvchan) dizayn.  
@@ -40,7 +40,7 @@ It’s a minimal, modern, and fully responsive design created for front-end prac
 
 ## 👨‍💻 Muallif / Author
 Shokhjahon Qalandarov  
-🔗 [GitHub profilim / My GitHub Profile](https://github.com/your-username)
+🔗 [GitHub profilim / My GitHub Profile](https://github.com/QalandarovShokhjahon)
 
 ---
 
