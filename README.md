@@ -11,7 +11,7 @@ It’s a minimal, modern, and fully responsive design created for front-end prac
 ---
 
 ## 🔗 Demo / Namoyish
-👉 [View on GitHub Pages / GitHub sahifasida ko‘rish](https://your-username.github.io/mastercard-ui/)
+👉 [View on GitHub Pages / GitHub sahifasida ko‘rish](https://QalandarovShokhjahon.github.io/mastercard-ui/)
 
 ---
 
@@ -32,9 +32,6 @@ It’s a minimal, modern, and fully responsive design created for front-end prac
 └── README.md
 
 ---
-
-## 📸 Preview / Ko‘rinishi
-![Mastercard UI Preview](./assets/screenshot.png)
 
 ---
 
